@@ -355,18 +355,18 @@ a.toc-link:hover {
   font-size: 30px;
   margin-right: 70px;
   display: inline-block;
-  webkit-transition: -webkit-transform .4s ease;
-  moz-transition: -moz-transform .4s ease;
-  o-transition: -o-transform .4s ease;
-  ms-transition: -ms-transform .4s ease;
+  -webkit-transition: -webkit-transform .4s ease;
+  -moz-transition: -moz-transform .4s ease;
+  -o-transition: -o-transform .4s ease;
+  -ms-transition: -ms-transform .4s ease;
   transition: transform .4s ease;
 }
 
 .toc-link span.rotate {
-  webkit-transform: rotate(180deg);
-  moz-transform: rotate(180deg);
-  o-transform: rotate(180deg);
-  ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
   transform: rotate(180deg);
 }
 
